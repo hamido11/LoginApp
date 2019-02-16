@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="item_editText_hint">Write a new item</string>
+    <string name="add_button_text">Add</string>
+</resources>
